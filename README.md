@@ -37,4 +37,4 @@ This project focuses on Exploratory Data Analysis (EDA) and Data Visualization o
 - `airbnb.csv` → Dataset used in the project
 
 ## Author
-Habiba Jamal El Afif
+Nabila Jamal El Afif
